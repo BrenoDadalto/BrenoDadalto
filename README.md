@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Breno Costa Dadalto</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Breno Dadalto</h1>
+<h3 align="center">A Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenodadalto&label=Profile%20views&color=0e75b6&style=flat" alt="brenodadalto" /> </p>
 
